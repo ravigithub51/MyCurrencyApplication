@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyCurrencyApplication</string>
+    <string-array name="currency_array">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>INR</item>
+        <!-- Add more currency options as needed -->
+    </string-array>
+</resources>
